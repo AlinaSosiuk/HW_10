@@ -1,0 +1,200 @@
+    1  jjkb
+    2  help
+    3  dir
+    4  mkdir hello
+    5  vpn
+    6  keyboard
+    7  open the keyboard
+    8  the end
+    9  closed
+   10  turn off
+   11  turnoff
+   12  off
+   13  mouse
+   14  help cd
+   15  man cd
+   16  df -h
+   17  mkdir directory_name
+   18  Maiia
+   19  mkdir directory_Maiia
+   20  git --version
+   21  DBeaver  --version
+   22  DBeaver --version
+   23  dbeaver --version
+   24  man ls
+   25  ls
+   26  cls
+   27  clear
+   28  ls
+   29  clear
+   30  ls
+   31  clear
+   32  clear
+   33  cd Desktop
+   34  ls
+   35  cd ..
+   36  cd ..
+   37  cd ..
+   38  cd ..
+   39  q
+   40  ls
+   41  cd
+   42  cd public
+   43  cd Public
+   44  cd ..
+   45  cd ~
+   46  cd ..
+   47  ls
+   48  cd~
+   49  cd ~
+   50  cd ~
+   51  cd Desktop
+   52  cd d
+   53  cd QA\ GoIT
+   54  cd Theory
+   55  pwd
+   56  cd ..
+   57  cd ..
+   58  mkdir New folder
+   59  ls
+   60  touch empty.txt
+   61  ls
+   62  clear
+   63  ls
+   64  cd users
+   65  User
+   66  cd Desktop
+   67  clear
+   68  vim empty.txt
+   69  vim empty.txt
+   70  nano empty.txt
+   71  nano empty.txt
+   72  nano empty.txt
+   73  nano empty.txt
+   74  cat empty.txt
+   75  nano empty.txt
+   76  cat empty.txt
+   77  cp empty.txt
+   78  pwd
+   79  cp /Users/alinasosiuk/Desktop/empty.txt /Users/alinasosiuk/Downloads
+   80  rm empty.txt
+   81  ping google.com
+   82  ping https://www.edu.goit.global/uk/learn/22672683/23077374/23090913/lessons
+   83  ping https://www.edu.goit.global/uk
+   84  ping https://www.youtube.com
+   85  ping youtube.com
+   86  date
+   87  df -h
+   88  clear
+   89  ifconfig
+   90  whoami
+   91  cd Git
+   92  cd Decktop
+   93  ls
+   94  cd Desktop
+   95  cd Git
+   96  git config --global user.name "Alina Sosiuk"
+   97  git config --global user.email a.nikolai4uk@gmail.com
+   98  git clone https://github.com/AlinaSosiuk/My-pet-projects.git
+   99  cd My-pet-projects
+  100  git status
+  101  touth New.txt
+  102  touch New.txt
+  103  git status
+  104  git add New.txt
+  105  git status
+  106  git commit -m "New file created"
+  107  git status
+  108  git log
+  109  git branch
+  110  git checkout -b Git
+  111  git branch
+  112  git checkout main
+  113  git branch
+  114  git checkout Git
+  115  nano First_project.txt
+  116  git status
+  117  git commit -m "New modified"
+  118  git add First_project.txt
+  119  git status
+  120  git commit -m "New modified"
+  121  git status
+  122  git branch
+  123  git checkout main
+  124  git merge Git
+  125  git branch
+  126  git status
+  127  cd HW_10
+  128  pwd
+  129  ls
+  130  cd Desktop
+  131  cd HW_10
+  132  history -c %% rm ~/.bash.history
+  133  git clone https://github.com/AlinaSosiuk/HW_10.git
+  134  cd Desktop
+  135  cd Git_HW
+  136  history -c && rm ~/.bash_history
+  137  git config --global user.name "Alina Sosiuk"
+  138  git config --global user.email a.nikolai4uk@gmail.com
+  139  cd
+  140  cd
+  141  cd
+  142  cd Desktop
+  143  cd
+  144  cd
+  145  cd Desktop
+  146  cd Git_HW
+  147  cd HW_10
+  148  touch text_ignore.txt
+  149  git status
+  150  git status
+  151  nano .gitignore
+  152  git status
+  153  cd text_ignore.txt
+  154  git status
+  155  ls
+  156  git status
+  157  Is
+  158  ls
+  159  git status
+  160  ls
+  161  cd Desktop
+  162  cd Git
+  163  history -c && rm ~/.bash_history
+  164  git config --global user.name "Alina Sosiuk"
+  165  git config --global user.email a.nikolai4uk@gmail.com
+  166  git clone https://github.com/AlinaSosiuk/HW_10.git
+  167  cd HW_10
+  168  touch text_ignore.txt
+  169  touch .gitignore
+  170  nano .gitignore
+  171  git status
+  172  git add. .gitignore
+  173  git add .gitignore
+  174  git status
+  175  git commit -m "New file created"
+  176  git status
+  177  git log
+  178  git add .
+  179  git status 
+  180  git commit -m "New file created"
+  181  git log
+  182  touch main_test.txt
+  183  git add .
+  184  git log
+  185  git status
+  186  git commit -m "New file created"
+  187  git log
+  188  git checkout -b develop
+  189  touch develop_test.txt
+  190  git add .
+  191  git commit -m "New file created"
+  192  nano develop_test.txt
+  193  git status
+  194  git add .
+  195  git commit -m "Changes added"
+  196  git status
+  197  git log
+  198  git checkout main
+  199  git merge develop
+  200  git log
